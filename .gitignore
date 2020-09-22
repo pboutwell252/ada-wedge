@@ -1,10 +1,12 @@
 WedgeZipFiles.zip
 WedgeZipOfZips_Small.zip
+WedgeFiles_Clean.zip
 *.db
 *.sqbpro
 
 WedgeZipFiles/*
 WedgeZipOfZips_Small/*
+WedgeFiles_Clean/*
 
 
 
